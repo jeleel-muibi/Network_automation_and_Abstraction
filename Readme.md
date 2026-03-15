@@ -1,7 +1,7 @@
 This repository explores concepts that later informed the HybridOps platform.
 
 HybridOps overview:
-https://hybridops.tech/why
+HybridOps overview: [hybridops.tech/why](https://hybridops.tech/why)
 
 ---
 
